@@ -1,6 +1,6 @@
 # Proffy - 👨🏻‍🏫 Proffy - A new way to learn anything you need with teachers! Choose your teacher by subject and price. 📚 <br/>
 
-### This is a ReactJs/React Native/ NdeJs project made for fun.
+### This is a ReactJs/ React Native/ NodeJs project made for fun.
 
 <img src="screenshots/presentation_cover.png" />
 
@@ -9,6 +9,7 @@
 - ReactJs
 - React Native
 - NodeJs
+- Knex
 
 <hr />
 
